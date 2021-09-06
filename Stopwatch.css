@@ -1,0 +1,116 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+
+.frame
+{
+    margin: 0% auto;
+    margin-top: 4%;
+    width: 300px;
+    height: 500px;
+    background-color: cadetblue;
+    border-radius: 25px;
+}
+h1
+{
+    padding: 5%;
+    padding-top: 8%;
+    padding-left: 27%;
+}
+.contant
+{
+    border-radius: 50%;
+    width: 70%;
+    height: 200px;
+    margin: 0% auto;
+    margin-top: 15%;
+    padding-top: 5%;
+    background-color: powderblue;
+    box-shadow: 0 -15px 15px  plum,
+    inset 0 -15px 15px palegreen,0 15px 15px  plum,
+    inset 0 15px 15px palegreen;
+}
+.tab
+{
+    padding: 5%;
+    padding-top: 30%;
+    padding-left: 9%;
+    font-size: 45px;
+    
+}
+.button1,.button2
+{
+    margin-left: 8px;
+    
+}
+.button3
+{
+    margin-right: 6px;
+}
+.button1 ,#b1
+{
+    margin-top: 15%;
+
+    width: 90px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+
+}
+.button2 ,#b2
+{
+    margin-top: 15%;
+    width: 90px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+
+
+}
+.button3 ,#b3
+{
+    margin-top: 15%;
+    width: 90px;
+    height: 30px;
+    font-size: 20px;
+    float: right;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+
+}
+#b1:hover
+{
+    background-color: palegreen;
+    color: black;
+    box-shadow: 0 -15px 15px  pink,
+                inset 0 -15px 15px pink,
+                0 15px 15px  springgreen,
+                inset 0 15px 15px springgreen;
+}
+#b2:hover
+{
+    background-color: palegreen;
+    color: black;
+    box-shadow: 0 -15px 15px  pink,
+                inset 0 -15px 15px pink,
+                0 15px 15px  springgreen,
+                inset 0 15px 15px springgreen;
+}
+#b3:hover
+{
+    background-color: palegreen;
+    color: black;
+    box-shadow: 0 -15px 15px  pink,
+                inset 0 -15px 15px pink,
+                0 15px 15px  springgreen,
+                inset 0 15px 15px springgreen;
+}
